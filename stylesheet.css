@@ -3,10 +3,6 @@ body{
     padding: 1rem;
 }
 
-h1{
-    color: red;
-}
-
-img{
+img, video{
     width: 90%;
 }
